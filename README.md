@@ -1,16 +1,19 @@
-## Hi there 👋
+## Wazaaaa!!!! 👋
+# 👾 Geremi Wanga (aka `Geremi57`)
 
-<!--
-**Geremi57/Geremi57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+$ whoami
+Geremi Wanga
 
-Here are some ideas to get you started:
+$ status
+while(alive){
+  drink_coffee();
+  read_docs();
+  write_code();
+  break_stuff();
+  google_errors();
+  fix_it();
+  repeat();
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ⚠️ Warning: runs on coffee and curiosity.
