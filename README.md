@@ -16,4 +16,4 @@ while(alive){
   repeat();
 }
 
-    ⚠️ Warning: runs on coffee and curiosity.
+    ⚠️ Warning: runs on coffee and code.
