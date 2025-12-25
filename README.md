@@ -1,4 +1,4 @@
-## Wazaaaa!!!! 👋
+## Wazaaaa!!!! 😛 
 # 👾 Geremi Wanga (aka `Geremi57`)
 
 ```bash
