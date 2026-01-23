@@ -1,5 +1,5 @@
 ## Wazaaaa!!!! 😛 
-# 👾 Geremi Wanga (aka `Geremi57`)
+# 👾 Geremi Wanga (aka `Geezburgerrs`)
 
 ```bash
 $ whoami
