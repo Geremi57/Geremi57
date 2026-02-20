@@ -1,4 +1,6 @@
 ## Wazaaaa!!!! 😛 
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Whatsup;Im Geremi;I+Am+Passionate+About+Coding;a+Fullstack+Software+Engineer;I+am+from+Nairobi+Kenya)](https://github.com/rezzcode)
+
 # 👾 Geremi Wanga (aka `Geez-orama`)
 
 ```bash
