@@ -16,4 +16,12 @@ while(alive){
   repeat();
 }
 
-    ⚠️ Warning: runs on coffee and code.
+$ cowsay "I'm not procrastinating, I'm debugging... my life"
+ _______________________________
+< I'm not procrastinating, I'm debugging... my life >
+ -------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
