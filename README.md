@@ -27,3 +27,6 @@ $ cowsay "I'm not procrastinating, I'm debugging... my life"
             (__)\       )\/\
                 ||----w |
                 ||     ||
+```
+
+## Statistics ![CircleCI status](https://circleci.com/gh/CircleCI-Public/shellcheck-orb.svg "CircleCI status")
