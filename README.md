@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif" alt="Banner" width="100%" />
+</div>
+
 ## Wazaaaa!!!! 😛 
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+Im+Geremi;I+Am+Passionate+About+Coding;a+Fullstack+Software+Engineer;From+Nairobi+Kenya)](https://github.com/rezzcode)
 
