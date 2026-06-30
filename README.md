@@ -3,12 +3,11 @@
 </div>
 
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+Im+Geremi;I+Am+Passionate+About+Engineering;a+Fullstack+Software+Engineer;From+Nairobi+Kenya)](https://github.com/rezzcode)
-
-# Hi, I'm Geremi Wanga 👋
+👋
 
 I'm a Full-Stack Software Engineer who enjoys building software that solves real problems and learning something new with every project. Most of what I know has come from rolling up my sleeves, breaking things, fixing them, and building again.
 
-Over the past few years I've worked with JavaScript, Go, Java, and modern web technologies to build full-stack applications, secure APIs, and software for real-world use. I also enjoy exploring emerging technologies like AI and Web3—not because they're trendy, but because I'm curious about how they can solve meaningful problems.
+Over the past few years I've worked with JavaScript, Go, Java, and modern web technologies to build full-stack applications, secure APIs, and software for the world. I also enjoy exploring emerging technologies like AI and Web3 not because they're trendy but because I'm curious about how they can solve meaningful problems.
 
 Outside of coding, you'll usually find me participating in hackathons, refining my workflow, or diving into the next technology that catches my attention.
 
